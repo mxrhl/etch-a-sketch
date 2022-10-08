@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: wheat;
+    display: flex;
+}
+
+#square {
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
